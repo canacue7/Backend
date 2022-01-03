@@ -1,0 +1,5 @@
+package com.sv.repositorio;
+
+public interface InterfaceUsuario {
+
+}

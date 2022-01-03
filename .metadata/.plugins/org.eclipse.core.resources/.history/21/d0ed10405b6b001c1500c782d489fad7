@@ -1,0 +1,5 @@
+package com.sv.modelos;
+
+public class UsuarioImplementacion extends User{
+
+}
